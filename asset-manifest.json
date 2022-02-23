@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/live-converter/static/css/main.d3c484f6.css",
+    "main.js": "/live-converter/static/js/main.a1ee8ac8.js",
+    "index.html": "/live-converter/index.html",
+    "main.d3c484f6.css.map": "/live-converter/static/css/main.d3c484f6.css.map",
+    "main.a1ee8ac8.js.map": "/live-converter/static/js/main.a1ee8ac8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c484f6.css",
+    "static/js/main.a1ee8ac8.js"
+  ]
+}
